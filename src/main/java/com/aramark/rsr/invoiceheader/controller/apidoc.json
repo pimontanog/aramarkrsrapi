@@ -1,0 +1,6 @@
+{
+  "name": "Aramark Rest API",
+  "version": "0.1.0",
+  "description": "Aramark basic Rest API to access DAO objects residing in an Oracle database",
+  "title": "Aramark Invoice Header Rest API"
+}
